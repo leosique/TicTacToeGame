@@ -34,7 +34,9 @@ namespace TicTacToe
 
         private void button2_Click(object sender, EventArgs e)
         {  
-            button2.Text = cont.ToString();
+            Form4 form4 = new Form4();
+            this.Hide();
+            form4.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)

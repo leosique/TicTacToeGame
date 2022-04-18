@@ -77,9 +77,9 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Rockwell", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(347, 220);
+            this.button3.Location = new System.Drawing.Point(348, 220);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(108, 50);
+            this.button3.Size = new System.Drawing.Size(107, 50);
             this.button3.TabIndex = 12;
             this.button3.Text = "Super";
             this.button3.UseVisualStyleBackColor = true;

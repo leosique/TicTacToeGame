@@ -39,11 +39,11 @@
             // button1
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Rockwell", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Rockwell", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(347, 220);
+            this.button1.Location = new System.Drawing.Point(348, 220);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(108, 50);
+            this.button1.Size = new System.Drawing.Size(107, 50);
             this.button1.TabIndex = 8;
             this.button1.Text = "Offline";
             this.button1.UseVisualStyleBackColor = true;

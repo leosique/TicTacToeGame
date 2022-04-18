@@ -11,3 +11,4 @@ E:\Leonardo\TicTacToeGame\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
 E:\Leonardo\TicTacToeGame\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
 E:\Leonardo\TicTacToeGame\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form2.resources
 E:\Leonardo\TicTacToeGame\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form3.resources
+E:\Leonardo\TicTacToeGame\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form4.resources
